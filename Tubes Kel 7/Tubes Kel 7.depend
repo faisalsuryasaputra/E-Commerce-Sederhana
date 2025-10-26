@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1734720174 source:c:\users\rafid\onedrive\documents\modul\tubes kel 7\e_commerce.cpp
+	"e_commerce.h"
+
+1734746448 c:\users\rafid\onedrive\documents\modul\tubes kel 7\e_commerce.h
+	<iostream>
+	<string>
+
+1734720199 source:c:\users\rafid\onedrive\documents\modul\tubes kel 7\main.cpp
+	"e_commerce.h"
+
